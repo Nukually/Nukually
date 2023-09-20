@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nukually
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning 高级语言程序设计
-- 💞️ I’m looking to collaborate on 现在还不知道
-- 📫 How to reach me 微信szy15133706007
+- 👀 I’m interested in Computer Graphics/Deep Learning/Games Developing
+- 🌱 I’m currently learning vulkan and nerf
+- 💞️ I’m looking to collaborate on ???
+- 📫 How to reach me WeChat:szy15133706007
 
 <!---
 Nukually/Nukually is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
